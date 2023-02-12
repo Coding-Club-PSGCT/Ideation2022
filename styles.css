@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap');
 
+
 :root{
     --main-color:#00FFFF;
 }
@@ -584,4 +585,8 @@ footer p{
 
 .update{
   text-decoration: underline;
+}
+
+.contact{
+    font-family: 'Open Sans', sans-serif;
 }
